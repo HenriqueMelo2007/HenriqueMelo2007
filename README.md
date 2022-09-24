@@ -1,4 +1,4 @@
-## Oi! Eu sou o Henrique Melo 👨‍💻
+## Oi! Eu sou o Henrique Melo 👨‍💻 <img align="right" src="https://komarev.com/ghpvc/?username=HenriqueMelo2007&style=flat-square&color=30317D" alt="Profile views" />
 
 <div align="center">
   <a href="https://github.com/HenriqueMelo2007">
