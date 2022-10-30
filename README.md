@@ -1,5 +1,9 @@
 ## Oi! Eu sou o Henrique Melo 👨‍💻
 
+<div>
+  <p>Tenho 15 anos e moro em Maceió-AL. Sonho em trabalhar como programador, pois é o que sinto prazer em praticar e vejo grande valor na profissão. Estou estudando a tríade do desenvolvimento web: HTML, CSS e JavaScript. Meu GitHub conta com alguns repositórios feitos por mim utilizando estas tecnologias!</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/HenriqueMelo2007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMelo2007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
