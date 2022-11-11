@@ -1,4 +1,4 @@
-<img style="object-fit: cover; width: 100%;" src="images/image-top-readme.jpg" alt="">
+<img src="images/image-readme.png" alt="">
 
 # Oi! Eu sou o Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
