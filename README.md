@@ -3,7 +3,7 @@
 # Oi! Eu sou o Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
 <div>
-  <p>Tenho 15 anos e moro em Maceió-AL. Sonho em trabalhar como programador, pois é o que sinto prazer em praticar e vejo grande valor na profissão. Estou estudando a tríade do desenvolvimento web: HTML, CSS e JavaScript. Meu GitHub conta com alguns repositórios feitos por mim utilizando estas tecnologias!</p>
+  <p>Tenho 16 anos e moro em Maceió-AL. Sonho em trabalhar como programador, pois é o que sinto prazer em praticar e vejo grande valor na profissão. Estou estudando a tríade do desenvolvimento web: HTML, CSS e JavaScript. Meu GitHub conta com alguns repositórios feitos por mim utilizando estas tecnologias!</p>
 </div>
 
 <div align="center">
