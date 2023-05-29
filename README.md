@@ -25,3 +25,5 @@
   <a href="https://www.instagram.com/henriquemelo__15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+[![calculator-2.0](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0)](https://github.com/HenriqueMelo2007/calculator-2.0)
