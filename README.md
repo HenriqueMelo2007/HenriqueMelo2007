@@ -26,4 +26,4 @@
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![calculator-2.0](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0)](https://github.com/HenriqueMelo2007/calculator-2.0)
+[![calculator-2.0](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&bg_color=#FF428E&title_color=#A8FFEF&text_color=#DFF959&icon_color=#F7A409)](https://github.com/HenriqueMelo2007/calculator-2.0)
