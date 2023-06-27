@@ -1,5 +1,3 @@
-<img src="images/readme-image.png" alt="">
-
 # Hi! I'm Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
 <div>
