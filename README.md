@@ -18,8 +18,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/HenriqueMelo2007">
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueMelo2007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMelo2007&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -34,4 +33,7 @@
 
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&theme=radical)](https://github.com/HenriqueMelo2007/calculator-2.0)
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&theme=radical"/>
+</div>
