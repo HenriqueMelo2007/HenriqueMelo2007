@@ -6,7 +6,7 @@
 
 
 
-<div align="center">
+<div  align="center">
   <img alt="icon-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="icon-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="icon-JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,13 +25,13 @@
 </div>
 
 
-##
+<br/>
 
-<div>
+<div  align="center">
   <a href="https://www.instagram.com/henriquemelo__15/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-##
+<br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&theme=radical)](https://github.com/HenriqueMelo2007/calculator-2.0)
