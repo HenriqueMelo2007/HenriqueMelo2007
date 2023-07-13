@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
+
 # Hi! I'm Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
 <div>
@@ -37,3 +39,6 @@
 <div align="center"> 
   <a href="https://github.com/HenriqueMelo2007/calculator-2.0"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&theme=radical"/></a> 
 </div>
+
+
+<img width=101% src="https://capsule-render.vercel.app/api?type=waving&color=F9421A&height=120&section=header"/>
