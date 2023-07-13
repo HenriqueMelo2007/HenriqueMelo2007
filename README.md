@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F9421A&size=35&center=true&vCenter=true&width=1000&lines=I'M+HENRIQUE+MELO;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-# Hi! I'm Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
 <div>
   <p>I'm 16 years old and I live in Maceió-AL. I dream of working as a programmer, I love this profession. I'm mainly studying React, and my goal is to delve into NextJS in the front-end scope. Soon I will start my studies in Node, to be able to build complete applications. My GitHub has projects made with didactic purposes!</p>
