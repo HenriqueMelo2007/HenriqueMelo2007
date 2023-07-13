@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF428E&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF1998&height=120&section=header"/>
 
 # Hi! I'm Henrique Melo <img align="top" alt="icon-JavaScript" height="58" width="58" src="https://cdn-icons-png.flaticon.com/512/644/644658.png">
 
