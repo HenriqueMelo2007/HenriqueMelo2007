@@ -50,7 +50,7 @@
 
 
 <div align="center"> 
-  <a href="https://github.com/HenriqueMelo2007/calculator-2.0"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=calculator-2.0&theme=radical"/></a> 
+  <a href="https://github.com/HenriqueMelo2007/table-news"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=table-news&theme=radical"/></a> 
 </div>
 
 
