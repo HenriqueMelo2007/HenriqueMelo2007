@@ -4,7 +4,7 @@
 
 
 <div>
-  <p>I'm 16 years old and I live in Maceió-AL. I dream of working as a programmer, I love this profession. I'm mainly studying React, and my goal is to delve into NextJS in the front-end scope. Soon I will start my studies in Node, to be able to build complete applications. My GitHub has projects made with didactic purposes!</p>
+  <p>I'm a 17-year-old young man passionate about development.  Specialized in NextJS to create modern web applications.  Furthermore, my enthusiasm extends to the area of ​​embedded systems, where I delve into the C language to explore the complexities and challenges of these technologies present in our daily lives.  Here, on my GitHub, you will find projects that demonstrate my knowledge!</p>
 </div>
 
 
