@@ -49,9 +49,5 @@
 <br/>
 
 
-<div align="center"> 
-  <a href="https://github.com/HenriqueMelo2007/table-news"><img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueMelo2007&repo=table-news&theme=radical"/></a> 
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5499E&height=120&section=footer"/>
