@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F5499E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5499E&size=35&center=true&vCenter=true&width=1000&lines=I'M+HENRIQUE+MELO;Front-end+developer;I'm+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5499E&size=35&center=true&vCenter=true&width=1000&lines=I'M+HENRIQUE+MELO;Developer;I'm+from+Brazil)](https://git.io/typing-svg)
 
 
 <div>
@@ -22,7 +22,7 @@
 
 <div  align="center">
   <img alt="icon-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="icon-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img alt="icon-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="icon-next" height="60" width="60" src="https://skillicons.dev/icons?i=nextjs" />
   <img alt="icon-C-language" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
