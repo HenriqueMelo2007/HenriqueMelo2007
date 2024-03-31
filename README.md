@@ -22,8 +22,9 @@
 
 <div  align="center">
   <img alt="icon-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="icon-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="icon-next" height="60" width="60" src="https://skillicons.dev/icons?i=nextjs" />
+  <img alt="icon-Tailwind" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="icon-MaterialUI" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
   <img alt="icon-C-language" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
 </div>
