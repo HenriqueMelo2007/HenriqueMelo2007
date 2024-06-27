@@ -48,7 +48,7 @@
   <br/>
   <a href="https://www.google.com/intl/pt-BR/gmail/about//"><img src="https://img.shields.io/badge/-henriquemelo0983@gmail.com-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br/>
-  <a href="https://www.google.com/intl/pt-BR/gmail/about//"><img src="https://img.shields.io/badge/-leetcode-%23BB001B?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/u/HenriqueMelo0983/"><img src="https://img.shields.io/badge/-leetcode-%23E7A41F?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank"></a>
 </div>
 
 <br/>
