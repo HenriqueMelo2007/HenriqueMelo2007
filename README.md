@@ -15,6 +15,8 @@
 
  <img alt="icon-C-language" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
+ <img alt="icon-C++-language" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
 </div>
 
 
