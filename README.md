@@ -11,9 +11,9 @@
 
 <div  align="center">
 
- <img alt="icon-C-language" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img alt="icon-C-language" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
- <img alt="icon-C++-language" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img alt="icon-C++-language" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 </div>
 
