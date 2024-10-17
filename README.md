@@ -4,7 +4,7 @@
 
 
 <div>
-  <p>I am seventeen years old and completely passionate about development.  My dream is to be able to work on the development of critical systems.  Here, on my GitHub, you are going to find projects that demonstrate my knowledge!</p>
+  <p>I am seventeen years old and completely passionate about development.  My intention is to be able to work on the development of critical systems.  Here, on my GitHub, you are going to find projects that demonstrate my knowledge!</p>
 </div>
 
 
