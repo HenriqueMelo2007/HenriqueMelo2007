@@ -18,6 +18,8 @@
 
  <img alt="icon-Python-language" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+ <img alt="icon-Javascript-language" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 </div>
 
 
