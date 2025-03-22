@@ -4,7 +4,7 @@
 
 
 <div>
-  <p>Firmware developer for embedded systems, including integrated solutions with IoT devices. Currently preparing for the 1st National Artificial Intelligence Olympiad (ONIA) in Brazil.</p>
+  <p>Firmware developer for embedded systems, including integrated solutions with IoT devices.</p>
   <p>Passionate about critical systems and artificial intelligence.</p>
 </div>
 
