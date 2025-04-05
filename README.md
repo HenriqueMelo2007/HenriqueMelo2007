@@ -5,7 +5,7 @@
 
 <div>
   <p>Firmware developer for embedded systems, including integrated solutions with IoT devices.</p>
-  <p>Passionate about critical systems and artificial intelligence.</p>
+  <p>Passionate about critical systems.</p>
 </div>
 
 
