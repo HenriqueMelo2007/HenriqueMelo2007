@@ -4,8 +4,8 @@
 
 
 <div>
-  <p>Firmware developer for embedded systems, including integrated solutions with IoT devices.</p>
-  <p>Passionate about critical systems.</p>
+  <p>Electrical engineering student at the Federal University of Alagoas.</p>
+  <p>Passionate about critical systems and artificial intelligence.</p>
 </div>
 
 
