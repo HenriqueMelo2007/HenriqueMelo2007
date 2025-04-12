@@ -39,6 +39,7 @@
  <img alt="small-icon-react" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
  <img alt="small-icon-nextjs" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" />
  <img alt="small-icon-tailwindcss" width="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" /> 
+ <img alt="small-icon-axios" width="30" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" /> 
 
 </div>
 
