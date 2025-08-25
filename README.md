@@ -12,13 +12,11 @@
 
 <div  align="center">
 
- <img alt="icon-C-language" height="100" width="100" src="https://raw.githubusercontent.com/Sp0ne/codeicons/680ad21f8fe54be9a70ae873476b4a25fcddb2f9/svg/cnormal.svg" />
+ <img alt="icon-C-language" height="100" width="100" src="https://raw.githubusercontent.com/mariabarkouzou/Create-An-Awesome-README.md-File/193a1f9511e334b4f38b205a11e757e885db595b/SVG%20Icons/Programming%20Languages%20SVG%20Icons/c-programming.svg" />
 
  <img alt="icon-C++-language" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 
  <img alt="icon-Python-language" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-
- <img alt="icon-Javascript-language" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 
 </div>
 
